@@ -1,8 +1,8 @@
-# Information / Информация
+# Information
 
 Интеграция системы CSS Grid.
 
-## Syntax / Синтаксис
+## Syntax
 
 1. Загрузите папки и файлы в директорию `extensions/MW_EXT_Grid`.
 2. В самый низ файла `LocalSettings.php` добавьте строку:
@@ -11,7 +11,7 @@
 wfLoadExtension( 'MW_EXT_Grid' );
 ```
 
-## Install / Установка
+## Install
 
 ```html
 <grid>
@@ -21,6 +21,6 @@ wfLoadExtension( 'MW_EXT_Grid' );
 </grid>
 ```
 
-## Donations / Пожертвования
+## Donations
 
 - [Donation Form](https://donation-form.github.io/)
